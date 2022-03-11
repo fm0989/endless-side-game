@@ -1,27 +1,26 @@
-#--IN GAME FRAME
-========================================
-                              @
-   ======       =================== ==
-                       @
-   ===== ============  ===========
-          l            PLAYER-> ;
-   ========                    ======
-               m
-========================================
-LEVEL: 2      HEALTH: 100       SCORE: 0
+# IN GAME FRAME
+<img src="assets/frame.png" alt="Insert frame" align="left" />
 
---MOVEMENT
-RIGHT ARROW           STEP RIGHT
-LEFT ARROW            STEP LEFT
-ARROW UP              CLIMB
-ARROW DOWN            GO DOWN
---ENEMIES
-m   -> -10 HEALTH
-n   -> -20 HEALTH
-l   -> -30 HEALTH
-w   -> -5 HEALTH -5 POINTS
---BONUS
-+   -> +5 HEALTH
-*   -> +10 POINTS
-@   -> +25 POINTS
+### MOVEMENT
+RIGHT ARROW&emsp;&emsp;&emsp;&emsp;&nbsp;STEP RIGHT
 
+LEFT ARROW&emsp;&emsp;&emsp;&emsp;&emsp;STEP LEFT
+
+ARROW UP&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;CLIMB
+
+ARROW DOWN&emsp;&emsp;&emsp;&emsp;GO DOWN
+
+### ENEMIES
+m&emsp;-> -10 HEALTH
+
+n&emsp;-> -20 HEALTH
+
+l&emsp;-> -30 HEALTH
+
+w&emsp;-> -5 HEALTH -5 POINTS
+### BONUS
+&#43;&emsp;-> +5 HEALTH
+   
+&#42;&emsp;-> +10 POINTS
+  
+@&emsp;-> +25 POINTS
