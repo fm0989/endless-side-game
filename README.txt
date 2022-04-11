@@ -13,7 +13,7 @@ LEVEL: 2      HEALTH: 100       SCORE: 0
 --MOVEMENT
 RIGHT ARROW           STEP RIGHT
 LEFT ARROW            STEP LEFT
-ARROW UP              CLIMB
+ARROW UP              CLIMB UP
 ARROW DOWN            GO DOWN
 --ENEMIES
 m   -> -10 HEALTH
